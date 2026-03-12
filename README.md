@@ -1,0 +1,80 @@
+# Cody Fry – Thinking About You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yep
+It's like I'm living on a cloud
+Out here just floating around
+I got a tendency
+to move too fast
+Even when
+I know I'm walking on glass
+Someone better hold me back now
+Slow down,
+slow down,
+slow down,
+slow down
+But I just gotta
+Know now,
+know now,
+know now,
+know now
+You got it, all right
+Yeah,
+I'd say you got it, all right
+You got me staying up all night
+I'm still thinking about you
+I'm still thinking about you,
+you
+Can't stop thinking about you
+I'm still thinking about,
+thinking about you
+I got my headphones on
+No sound, just walking along
+So many questions
+running through my mind
+Don't even care
+if I'm wasting my time
+Nobody's gonna hold me back now
+Slow down,
+slow down,
+slow down,
+slow down
+But I just gotta
+Know now,
+know now,
+know now,
+know now
+You got it, all right
+Yeah,
+I'd say you got it, all right
+If it's wrong,
+I don't wanna be right
+I'm still thinking about you
+I'm still thinking about you,
+you
+Can't stop thinking about you
+I'm still thinking about,
+thinking about you
+Slow down,
+slow down,
+slow down,
+slow down
+Slow down,
+slow down,
+slow down,
+slow down
+I think I'm losing my mind
+Yeah, I think I'm losing my mind
+Why does this happen every time?
+Still thinking about you
+I'm still thinking about you,
+you
+Can't stop thinking about you
+I'm still thinking about,
+thinking about you
+(still thinking)
+I'm still thinking about,
+thinking about you
+```

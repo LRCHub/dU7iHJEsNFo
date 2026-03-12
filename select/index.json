@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Thinking About You",
+  "base_artist": "Cody Fry",
+  "createdAt": "2026-03-12T05:41:06.564693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Thinking_About_You_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thinking About You - Demo",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Thinking_About_You_-_Demo_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thinking About You (Demo)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Thinking_About_You_(Demo)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thinking About You (Drill)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Thinking_About_You_(Drill)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thinking About You (EP version)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Thinking_About_You_(EP_version)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Stop Thinking About You",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/06_Can't_Stop_Thinking_About_You_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Calvin Harris feat. Ayah",
+      "has_synced": true,
+      "path": "select/07_Thinking_About_You_Calvin_Harris_feat._Ayah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Calvin Harris",
+      "has_synced": true,
+      "path": "select/08_Thinking_About_You_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Been Thinking About You - R&B",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/09_I've_Been_Thinking_About_You_-_R&B_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Altered Images",
+      "has_synced": false,
+      "path": "select/10_Thinking_About_You_Altered_Images.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/11_Thinking_About_You_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Ivy",
+      "has_synced": true,
+      "path": "select/12_Thinking_About_You_Ivy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When I'm Thinking About You",
+      "artist": "The Sundays",
+      "has_synced": false,
+      "path": "select/13_When_I'm_Thinking_About_You_The_Sundays.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/14_Thinking_About_You_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/15_Thinking_About_You_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thinking About You",
+      "artist": "Puddle of Mudd",
+      "has_synced": false,
+      "path": "select/16_Thinking_About_You_Puddle_of_Mudd.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thinking About You (Drill Version)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_Thinking_About_You_(Drill_Version)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thinking About Tomorrow",
+      "artist": "Beth Orton",
+      "has_synced": true,
+      "path": "select/18_Thinking_About_Tomorrow_Beth_Orton.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Thinking About Forever",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/19_Thinking_About_Forever_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Can't Help Thinking About Me",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/20_Can't_Help_Thinking_About_Me_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Stop Thinking About It",
+      "artist": "Joey Ramone",
+      "has_synced": true,
+      "path": "select/21_Stop_Thinking_About_It_Joey_Ramone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thinking About You",
+      "artist": "Cody Fry",
+      "has_synced": false,
+      "path": "select/pl_01_Thinking_About_You_Cody_Fry.txt"
+    }
+  ]
+}
